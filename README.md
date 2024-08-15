@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/rohitadhikari43" target="blank"><img src="https://img.shields.io/twitter/follow/rohitadhikari43?logo=twitter&style=for-the-badge" alt="rohitadhikari43" /></a> </p>
 
-- 🔭 I’m currently working as **Networking Teacher**:man_teacher:
+- 🔭 I’m currently working as **Networking and Cybersecurity Instructor**:man_teacher:
 
 - 🌱 I’m currently learning **Hacking and Networking**
 
