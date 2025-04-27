@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Adhikari</h1>
 <h3 align="center">An Enthusiast Cybersecurity Person.!</h3>
-<img align="right" alt="cartoon" width="250"  src="https://user-images.githubusercontent.com/35991810/193705451-0bbbb7f7-adc1-4332-ae6c-18962ced0711.png">
+<!-- <img align="right" alt="cartoon" width="250"  src="https://user-images.githubusercontent.com/35991810/193705451-0bbbb7f7-adc1-4332-ae6c-18962ced0711.png"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitadhikari143&label=Profile%20views&color=0e75b6&style=flat" alt="rohitadhikari143" /> </p>
 
